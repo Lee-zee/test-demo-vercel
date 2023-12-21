@@ -64,9 +64,9 @@ nav:
 
   # 导航栏右侧快捷菜单 (true,false)
   right: # @todo 允许用户自定义
-    travellings: false   #开往
-    random: false        # 随机文章跳转
-    console: false       #控制台
+    travellings: true   #开往
+    random: true        # 随机文章跳转
+    console: true       #控制台
 
 # 首页顶部样式
 hometop:
