@@ -69,3 +69,8 @@ include ../widgets/third-party/pjax.pug
 if theme.extends.body
     each item in theme.extends.body
         != item
+
+//- 深色模式粒子效果canvas
+if theme.universe.enable
+    canvas(id="universe")
+    script(src="/js/extend/universe/universe.js")

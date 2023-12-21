@@ -349,6 +349,10 @@ theme_color:
   light_op_deep: '#eccec5' # 亮色模式透明深色
   light_none: '#4259ef01' # 亮色模式透明无色
 
+# 深色模式粒子效果canvas
+universe:
+  enable: true
+
 # 第三方设置
 thirdparty:
   wordcount: false # 字数统计
