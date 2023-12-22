@@ -319,22 +319,22 @@ errorpage:
 
 # 懒加载
 lazyload:
-  enable: false # 是否开启
+  enable: true # 是否开启
   placeholder: /img/loading.gif # 加载中显示图片
   errorimg: /img/error_load.png # 加载失败显示图片
 
 # 图片灯箱
-lightbox: false # 是否开启
+lightbox: true # 是否开启
 
 #代码高亮增强
 hightlight:
-  enable: false # 是否开启
+  enable: true # 是否开启
   hightlimit: 200 # 代码高亮字数限制
 
 # 加载动画
 loading:
-  fullpage: false # 全局加载动画
-  pace: false # 顶部加载动画
+  fullpage: true # 全局加载动画
+  pace: true # 顶部加载动画
 
 # 用于自定义的主题颜色
 # 注意：颜色值必须使用引号，如“#000”，否则可能会导致错误！
@@ -355,7 +355,7 @@ universe:
 
 # 第三方设置
 thirdparty:
-  wordcount: false # 字数统计
+  wordcount: true # 字数统计
   busuanzi:
     enable: false
     usecomment: false #当评论系统开启时文章页面使用评论系统的统计数据
@@ -433,7 +433,7 @@ extends:
 
 # 文章底部推荐文章
 related_post:
-  enable: false
+  enable: true
   limit: 2 # 推荐文章数量
   date_type: created # 根据创建日期（created）或是更新日期（updated）
 
