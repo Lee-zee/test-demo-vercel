@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 炭市
+subtitle: '浮生若梦，为欢几何'  # 博客子标题
+description: '一个平凡但不拘于世的少年' # 博客简介
 keywords:
-author: John Doe
+author: 炭市
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
+email: "rums9781@163.com"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

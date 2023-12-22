@@ -2,9 +2,9 @@
 site:
   name: # 左上角显示内容
     class:  text #i_class/text/img
-    custom: Solitude #自定义内容 例如：scoicon sco-logo / 王卓Sco / https://p.sondy.top/logo.png
-  siteIcon: https://bu.dusays.com/2023/11/08/654af68b25bb8.jpg # 网页icon
-  icon: https://bu.dusays.com/2023/11/08/654af68b25bb8.jpg # 页脚的icon、加载动画默认的icon
+    custom: 炭市 #自定义内容 例如：scoicon sco-logo / 王卓Sco / https://p.sondy.top/logo.png
+  siteIcon: https://bu.dusays.com/2023/12/19/658150fe057fc.png # 网页icon
+  icon: https://bu.dusays.com/2023/12/19/658150fe057fc.png # 页脚的icon、加载动画默认的icon
   icp:  # ICP 例如：湘ICP备2023015327号
 
 
@@ -16,7 +16,7 @@ nav:
     menu:
 #        项目:
 #          Solitude:
-#            icon: https://bu.dusays.com/2023/11/08/654af68b25bb8.jpg
+#            icon: https://bu.dusays.com/2023/12/19/658150fe057fc.png
 #            url: https://github.com/DuoSco/Hexo-Theme-solitude
 
   # 导航栏内容
@@ -33,6 +33,12 @@ nav:
           全部标签:
             url: /tags/
             icon: scoicon sco-price-tag-fill
+      关于:
+       url: false
+       child:
+         关于本站:
+           url: /about/
+           icon: scoicon sco-contacts-fill
 #      友链:
 #        url: false
 #        child:
@@ -54,12 +60,6 @@ nav:
 #          工具箱:
 #            url: /tlink/
 #            icon: scoicon sco-tools-fill
-#      关于:
-#        url: false
-#        child:
-#          关于本站:
-#            url: /about/
-#            icon: scoicon sco-contacts-fill
 
 
   # 导航栏右侧快捷菜单 (true,false)
@@ -71,35 +71,35 @@ nav:
 # 首页顶部样式
 hometop:
   banner:
-    enable: false # 是否打开顶部banner
-    title: 宁静致远<br>热爱生活 # 左上角显示文字
-    url: Hexo-Theme-Solitude # title下方小字
+    enable: true # 是否打开顶部banner
+    title: 浮生若梦<br>为欢几何 # 左上角显示文字
+    url: BLOG # title下方小字
     # 轮播icon
     icon:
-#      HTML:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/HTML.png
-#        color: '#e9572b'
-#      JS:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/JS.png
-#        color: '#f7cb4f'
-#      Kotlin:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/kotlin-logo.svg
-#        color: '#ffffff'
-#      Docker:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/docker.png
-#        color: '#57b6e6'
-#      Flutter:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/flutter.png
-#        color: '#ffffff'
-#      WebPack:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
-#        color: '#2e3a41'
-#      Git:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/git.png
-#        color: '#df5b40'
-#      VS:
-#        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/vs-logo.svg
-#        color: '#ffffff'
+     HTML:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/HTML.png
+       color: '#e9572b'
+     JS:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/JS.png
+       color: '#f7cb4f'
+     Kotlin:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/kotlin-logo.svg
+       color: '#ffffff'
+     Docker:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/docker.png
+       color: '#57b6e6'
+     Flutter:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/flutter.png
+       color: '#ffffff'
+     WebPack:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
+       color: '#2e3a41'
+     Git:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/git.png
+       color: '#df5b40'
+     VS:
+       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/vs-logo.svg
+       color: '#ffffff'
 
   # 顶部三大分类
   categoryGroup:
@@ -121,7 +121,7 @@ hometop:
     sup: 置顶 # 左上角显示文字
     title: Solitude主题文档 # 左下角大字
     url: https://docs.wzsco.top/ # 点击跳转链接
-    img: /img/default.png # 显示背景
+    img: /img/default.jpg # 显示背景
     color: '#ff0000' # 背景颜色
 
 # 侧边栏
@@ -260,13 +260,13 @@ page:
   categories: true # 分类页
   default: # 默认值
     cover:
-      - /img/default.png # 默认图片
+      - /img/default.jpg # 默认图片
 
 # 文章页默认设置
 post:
   default:
     cover:
-      - /img/default.png # 默认图片
+      - /img/default.jpg # 默认图片
     locate: 衡阳
     copyright:
       enable: true
