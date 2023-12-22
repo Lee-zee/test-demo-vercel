@@ -148,7 +148,7 @@ aside:
   card:
     # 头像信息
     author:
-      img: https://bu.dusays.com/2023/11/08/654af68b25bb8.jpg # 头像图片
+      img: https://bu.dusays.com/2023/12/19/658150fe057fc.png # 头像图片
       js: https://cdn3.codesign.qq.com/icons/XgRxnjPG4VZLmqr/latest/iconfont.js # 自定义图标js（用于显示带颜色的状态表情）
       state: "#sco-smile" # 状态表情（使用symbol）
     content: 分享自己对编程的<b>热爱</b>，对美好生活的<b>向往</b>，对知识海洋<b>探索历程</b>。 # 文案1
@@ -157,10 +157,10 @@ aside:
     information:
       Github:
         icon: scoicon sco-github-line
-        url: https://github.com/DuoSco/Hexo-Theme-slitude
-      Bilibili:
-        icon: scoicon sco-bilibili-line
-        url: https://space.bilibili.com/1329819902
+        url: https://github.com/Lee-zee
+      # Bilibili:
+      #   icon: scoicon sco-bilibili-line
+      #   url: https://space.bilibili.com/1329819902
   # 公众号二维码
   flip:
     favicon: # 右下角头像
@@ -176,7 +176,7 @@ aside:
     Latitude: 26.430308353457896 # 纬度
   # 那年今日
   history:
-    enable: false
+    enable: true
     title: #【选填】留空将默认显示为：那年今日
     icon: #【选填】留空将默认显示为：scoicon sco-calendar-line
   # 页面目录
@@ -186,14 +186,14 @@ aside:
 
   # 侧边栏文章列表
   tags:
-    enable: false # 是否显示标签
+    enable: true # 是否显示标签
     highlight: false # 高亮显示
     list: # 高亮显示标签列表
       - 'Solitude-使用'
 
   # 侧边栏归档
   archive:
-    enable: false # 是否显示
+    enable: true # 是否显示
 
   # 建站信息
   siteinfo:
@@ -267,7 +267,7 @@ post:
   default:
     cover:
       - /img/default.jpg # 默认图片
-    locate: 衡阳
+    locate: 苏州
     copyright:
       enable: true
       license: CC BY-NC-SA 4.0
@@ -289,16 +289,16 @@ post:
     url: /about # 打赏统计页面链接
   # 文章颜色获取
   covercolor: #文章cover取色
-    enable: false # 是否开启
+    enable: true # 是否开启
     local: true # 本地取色
   # 底部头像背景
   author_back: https://bu.dusays.com/2023/11/01/6541f6d4b2573.png
 
 # 关于界面
 about:
-  enable: false # 是否开启
+  enable: true # 是否开启
   echarts: # 文章统计
-    enable: false # 是否开启
+    enable: true # 是否开启
     startDate: "2023-04-20 00:00:00" # 统计开始日期 格式：yyyy-MM-dd hh-mm-ss
     tagLength: 10 # 标签显示数量
     categoryParent: true # 显示父分类
@@ -307,8 +307,8 @@ about:
 # 前置要求：需配置即刻说说页面
 # 开启后将显示即刻页面
 says:
-  enable: false
-  home_mini: false # 主页的即刻轮播条
+  enable: true
+  home_mini: true # 主页的即刻轮播条
   style: 1 # 1：张洪heo样式 / 2：Leonus样式
 
 # 404 页面
