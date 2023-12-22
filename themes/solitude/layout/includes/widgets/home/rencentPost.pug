@@ -10,6 +10,10 @@ each post in filteredPosts
 
 if theme.hometop.recommendList.url.startsWith('/') && theme.hometop.recommendList.url.endsWith('/')
     .todayCard#todayCard(onclick=`pjax.loadUrl('${theme.hometop.recommendList.url}')`, style="z-index: 1;")
+        .todayCard-info
+            .todayCard-tips= theme.hometop.recommendList.sup
+            .todayCard-title= theme.hometop.recommendList.title
+        .todayCard-cover.nolazyload(style=`background: url('${theme.hometop.recommendList.img}') no-repeat center /cover`)
 else
     script.
         function GoTodayCard() {

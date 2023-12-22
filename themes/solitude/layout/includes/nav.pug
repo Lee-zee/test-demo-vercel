@@ -7,11 +7,11 @@ nav#nav.show
                     include ./widgets/nav/left.pug
             a#site-name(href="/", title="返回博客主页", traget="_self")
                 if theme.site.name.class === 'i_class'
-                    i.scoicon(class=theme.site.name.custom, style="font-size: 16px;")
+                    i.scoicon(class=theme.site.name.custom, style="font-size: 18px;")
                 else if theme.site.name.class === 'img'
                     img(src=theme.site.name.custom, alt=config.title)
                 else if theme.site.name.class === 'text'
-                    span.scoicon= theme.site.name.custom
+                    span= theme.site.name.custom
         div#page-name-mask
             div#page-name
                 a#page-name-text(onclick="sco.toTop()")= page.title || config.title
