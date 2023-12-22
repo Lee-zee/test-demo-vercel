@@ -3,6 +3,9 @@ title: 将Windows Terminal配置到右键菜单
 date: 2023-12-21 10:13:40
 tags:
   - 配置
+categories:
+  - 热门
+cover: https://bu.dusays.com/2023/12/19/6581510674877.png
 ---
 
 
