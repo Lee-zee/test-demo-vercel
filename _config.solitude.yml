@@ -503,7 +503,7 @@ css_prefix: false
 cdn:
   head:
     snackbarcss: /lib/snackbar.min.css
-    scoicon: https://cdn3.codesign.qq.com/icons/7pOrz0WXB5ZWJPX/latest/iconfont.css
+    scoicon: https://cdn2.codesign.qq.com/icons/7pOrz0WXB5ZWJPX/latest/iconfont.css
     aplayercss: https://cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.css
     swipercss: https://cdn.bootcdn.net/ajax/libs/Swiper/9.2.4/swiper-bundle.min.css
     twikoojs: https://cdn.bootcdn.net/ajax/libs/twikoo/1.6.20/twikoo.all.min.js
