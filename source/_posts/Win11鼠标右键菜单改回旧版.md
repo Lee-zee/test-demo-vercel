@@ -1,8 +1,8 @@
 ---
-title: front_matter相关配置
+title: Win11鼠标右键菜单改回旧版
 date: 2023-12-19 13:33:20
 tags: 
-  - 电脑
+  - windows
 cover: https://bu.dusays.com/2023/12/19/6581445e848ca.png
 ---
 
