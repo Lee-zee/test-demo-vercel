@@ -15,6 +15,4 @@ cover: https://bu.dusays.com/2023/12/19/65814cc6ef378.png
 
 [Butterfly主题魔改教程](https://butterfly.zhheo.com/Introduction.html)
 
-## 远期目标
 
-完成改造主题开发，在项目中应用

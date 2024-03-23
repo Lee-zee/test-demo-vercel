@@ -26,4 +26,3 @@ $ hexo g
 $ hexo s [-p port] 
 ```
 
-[主题配置文档](https://gavinblog.github.io/anzhiyu-docs/#%E4%BA%A4%E6%B5%81%E7%BE%A4)

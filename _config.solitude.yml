@@ -118,9 +118,9 @@ hometop:
 
   # 右侧置顶列表（在文章的front matter中添加“recommend: true”）
   recommendList:
-    sup: 置顶 # 左上角显示文字
-    title: Solitude # 左下角大字
-    url: /tags/精选/ # 点击跳转链接
+    sup: AI # 左上角显示文字
+    title: CHAT AI # 左下角大字
+    url: https://chat.lee-zee.top/ # 点击跳转链接
     img: /img/default.jpg # 显示背景
     color: '#ff0000' # 背景颜色
 
