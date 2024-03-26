@@ -7,7 +7,7 @@ authorinfo:
     - "脚踏实地行动派 🏃"
     - "团队小组发动机 🧱"
     - "壮汉人狠话不多 💢"
-  image: "https://bu.dusays.com/2023/10/31/6540daf117d20.png"
+  image: "https://bu.dusays.com/2023/12/19/658150fe057fc.png"
 contentinfo:  # 顶部个人信息展示
   name: 李桢  # 名称
   title: 前端工程师  # 介绍
@@ -53,17 +53,17 @@ careers:
       color: "#357ef5"
   image: "https://bu.dusays.com/2023/10/31/654112c2aaef4.png"
 
-personalities:
-  tips: "性格"
-  title: "执政官"
-  color: "#56a178"
-  type: "ESFJ-A"
-  image: "https://npm.elemecdn.com/wzheo-absolute@1.0.0/image/source/about/ESFJ-A.svg"
-  link: "https://www.16personalities.com/"
-  linkText: "16personalities"
-  typeLink: "https://www.16personalities.com/ch/infp-人格"
-  typeName: "执政官"
-  myphoto: https://bu.dusays.com/2023/10/31/6540d809e3dcd.png
+# personalities:
+#   tips: "性格"
+#   title: "执政官"
+#   color: "#56a178"
+#   type: "ESFJ-A"
+#   image: "https://npm.elemecdn.com/wzheo-absolute@1.0.0/image/source/about/ESFJ-A.svg"
+#   link: "https://www.16personalities.com/"
+#   linkText: "16personalities"
+#   typeLink: "https://www.16personalities.com/ch/infp-人格"
+#   typeName: "执政官"
+#   myphoto: https://bu.dusays.com/2023/10/31/6540d809e3dcd.png
 
 motto:
   title: 座右铭
@@ -71,38 +71,38 @@ motto:
   content: 砥砺前行。
 expertise:
   title: 特长
-  prefix: 跑步、写作、唱歌
+  prefix: 跑步、游泳、唱歌
   specialist: 专家
   content: 学习能力
   level: MAX
 
-game1:
-  title: "爱好游戏"
-  img: https://bu.dusays.com/2023/10/31/654114af5cdcb.png
-  icon: "fas fa-gamepad"
-  subtitle: "APEX LEGENDS"
-  tips_left: C位
-  tips_right: ID Wleelw
-game2:
-  title: "爱好游戏"
-  img: https://bu.dusays.com/2023/10/31/6541152ce393d.png
-  subtitle: 精灵与萤火意志
-  icon: "fas fa-dice-d20"
-  tips_right: "跑图大师"
+# game1:
+#   title: "爱好游戏"
+#   img: https://bu.dusays.com/2023/10/31/654114af5cdcb.png
+#   icon: "fas fa-gamepad"
+#   subtitle: "APEX LEGENDS"
+#   tips_left: C位
+#   tips_right: ID Wleelw
+# game2:
+#   title: "爱好游戏"
+#   img: https://bu.dusays.com/2023/10/31/6541152ce393d.png
+#   subtitle: 精灵与萤火意志
+#   icon: "fas fa-dice-d20"
+#   tips_right: "跑图大师"
 likes:	#
   - type: like-technology
     bg: https://bu.dusays.com/2023/10/31/65411572727e5.png
     tips: 关注偏好
     title: 万物互联
     subtips: 手机、电脑、车机软硬件
-  - type: like-music
-    bg: https://bu.dusays.com/2023/10/31/654115a0e6cc2.png
-    tips: 音乐偏好
-    title: 华语流行、轻音乐
-    subtips: 跟 王卓Sco 一起欣赏更多音乐
-    button: true
-    button_text: 更多推荐
-    button_link: /music/
+  # - type: like-music
+  #   bg: https://bu.dusays.com/2023/10/31/654115a0e6cc2.png
+  #   tips: 音乐偏好
+  #   title: 华语流行、轻音乐
+  #   subtips: 跟 王卓Sco 一起欣赏更多音乐
+  #   button: true
+  #   button_text: 更多推荐
+  #   button_link: /music/
 
 
 oneself:	# 按需填写
@@ -112,8 +112,8 @@ oneself:	# 按需填写
   major: '轮机工程'	# 专业
   occupation: '前端攻城狮'	# 职位
   map:	# 你所在位置的地图
-    light: https://bu.dusays.com/2023/10/31/6541161b74b2a.webp	# 白天
-    dark: https://bu.dusays.com/2023/10/31/6541161bc4066.webp	# 夜晚
+    light: https://bu.dusays.com/2024/03/26/66027172550be.png	# 白天
+    dark: https://bu.dusays.com/2024/03/26/6602717797dd2.png	# 夜晚
 
 # tj:	# 统计
 #   url: https://v6-widget.51.la/v6/3F15j2vtdTo7PPcN/quote.js	# 需要到51la官网注册自行获取
