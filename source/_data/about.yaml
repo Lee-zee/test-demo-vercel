@@ -9,8 +9,8 @@ authorinfo:
     - "壮汉人狠话不多 💢"
   image: "https://bu.dusays.com/2023/10/31/6540daf117d20.png"
 contentinfo:  # 顶部个人信息展示
-  name: Solitude  # 名称
-  title: 一个优雅的 Hexo 主题  # 介绍
+  name: 李桢  # 名称
+  title: 前端工程师  # 介绍
   product: 优秀的产品
   design: 出色的设计
   program: 高效的编程
@@ -26,24 +26,24 @@ skills: # 根据需求添加
     - title: Javascript
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/JS.png
       color: '#f7cb4f'
-    - title: Kotlin
-      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/kotlin-logo.svg
-      color: '#ffffff'
-    - title: Docker
-      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/docker.png
-      color: '#57b6e6'
-    - title: Flutter
-      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/flutter.png
-      color: '#ffffff'
+    # - title: Kotlin
+    #   icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/kotlin-logo.svg
+    #   color: '#ffffff'
+    # - title: Docker
+    #   icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/docker.png
+    #   color: '#57b6e6'
+    # - title: Flutter
+    #   icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/flutter.png
+    #   color: '#ffffff'
     - title: WebPack
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
       color: '#2e3a41'
     - title: Git
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/git.png
       color: '#df5b40'
-    - title: Visual Studio
-      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/vs-logo.svg
-      color: '#ffffff'
+    # - title: Visual Studio
+    #   icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/vs-logo.svg
+    #   color: '#ffffff'
 careers:
   title: "生涯"
   subtitle: "无限进步"
@@ -115,9 +115,9 @@ oneself:	# 按需填写
     light: https://bu.dusays.com/2023/10/31/6541161b74b2a.webp	# 白天
     dark: https://bu.dusays.com/2023/10/31/6541161bc4066.webp	# 夜晚
 
-tj:	# 统计
-  url: https://v6-widget.51.la/v6/3F15j2vtdTo7PPcN/quote.js	# 需要到51la官网注册自行获取
-  img: https://bu.dusays.com/2023/03/12/640dc8c72f623.webp # 背景
+# tj:	# 统计
+#   url: https://v6-widget.51.la/v6/3F15j2vtdTo7PPcN/quote.js	# 需要到51la官网注册自行获取
+#   img: https://bu.dusays.com/2023/03/12/640dc8c72f623.webp # 背景
 
 # 介绍自己
 cause: <br>创建这个站的时候，想要就是能够有一个自己能够<b>积累知识、积累兴趣</b>的地方。和他人分享，会让这些成为积累和沉淀。如果能够帮助到更多的人，帮助更多人解决问题，那一定是非常棒的事情。

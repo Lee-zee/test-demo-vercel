@@ -64,9 +64,9 @@ nav:
 
   # 导航栏右侧快捷菜单 (true,false)
   right: # @todo 允许用户自定义
-    travellings: true   #开往
-    random: true        # 随机文章跳转
-    console: true       #控制台
+    travellings: false   #开往
+    random: false        # 随机文章跳转
+    console: false       #控制台
 
 # 首页顶部样式
 hometop:
@@ -85,12 +85,12 @@ hometop:
      Kotlin:
        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/kotlin-logo.svg
        color: '#ffffff'
-     Docker:
-       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/docker.png
-       color: '#57b6e6'
-     Flutter:
-       img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/flutter.png
-       color: '#ffffff'
+    #  Docker:
+    #    img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/docker.png
+    #    color: '#57b6e6'
+    #  Flutter:
+    #    img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/flutter.png
+    #    color: '#ffffff'
      WebPack:
        img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
        color: '#2e3a41'
@@ -176,7 +176,7 @@ aside:
     Latitude: 26.430308353457896 # 纬度
   # 那年今日
   history:
-    enable: true
+    enable: false
     title: #【选填】留空将默认显示为：那年今日
     icon: #【选填】留空将默认显示为：scoicon sco-calendar-line
   # 页面目录
@@ -307,8 +307,8 @@ about:
 # 前置要求：需配置即刻说说页面
 # 开启后将显示即刻页面
 says:
-  enable: true
-  home_mini: true # 主页的即刻轮播条
+  enable: false
+  home_mini: false # 主页的即刻轮播条
   style: 1 # 1：张洪heo样式 / 2：Leonus样式
 
 # 404 页面
