@@ -1,5 +1,9 @@
 ---
-title: 关于本站
-date: 2023-10-31 22:24:22
-type: about
+title: 关于
+date: 2021-03-30 15:57:51
+aside: false
+top_img: false
+background: "#f8f9fe"
+comments: false
+type: "about"
 ---
