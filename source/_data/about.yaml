@@ -51,7 +51,7 @@ careers:
     - school: "广州航海学院"
       major: "轮机工程"
       color: "#357ef5"
-  image: "https://bu.dusays.com/2023/10/31/654112c2aaef4.png"
+  image: "https://bu.dusays.com/2024/03/27/660401edb32cb.png"
 
 # personalities:
 #   tips: "性格"
@@ -89,12 +89,12 @@ expertise:
 #   subtitle: 精灵与萤火意志
 #   icon: "fas fa-dice-d20"
 #   tips_right: "跑图大师"
-likes:	#
-  - type: like-technology
-    bg: https://bu.dusays.com/2023/10/31/65411572727e5.png
-    tips: 关注偏好
-    title: 万物互联
-    subtips: 手机、电脑、车机软硬件
+# likes:	#
+#   - type: like-technology
+#     bg: https://bu.dusays.com/2023/10/31/65411572727e5.png
+#     tips: 关注偏好
+#     title: 万物互联
+#     subtips: 手机、电脑、车机软硬件
   # - type: like-music
   #   bg: https://bu.dusays.com/2023/10/31/654115a0e6cc2.png
   #   tips: 音乐偏好
